@@ -15,6 +15,7 @@
 - Git Intermediário
 - JavaScript Básico
 - PHP Intermediário
-- MySQL Básico
+- MySQL Intermediário
 - CSS e HTML 
-- Magento Básico
+- Magento 1.x
+- Diagramação UML e Modelagem de Sistemas
